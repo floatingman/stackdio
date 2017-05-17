@@ -40,14 +40,14 @@ glad to help!
 -  StackExchange: Ask a question on any `StackExchange site <http://stackexchange.com/sites>`__
    and tag it with ``stackd.io`` or ``stackdio``
 
-.. |TravisCI| image:: https://travis-ci.org/stackdio/stackdio.svg?branch=master
-   :target: https://travis-ci.org/stackdio/stackdio
+.. |TravisCI| image:: https://travis-ci.org/floatingman/stackdio.svg?branch=master
+   :target: https://travis-ci.org/floatingman/stackdio
    :alt: Build Status
 .. |PyPi| image:: https://img.shields.io/pypi/v/stackdio-server.svg
    :target: https://pypi.python.org/pypi/stackdio-server
    :alt: PyPi Version
-.. |CoverageStatus| image:: https://coveralls.io/repos/github/stackdio/stackdio/badge.svg?branch=master
-   :target: https://coveralls.io/github/stackdio/stackdio?branch=master
+.. |CoverageStatus| image:: https://coveralls.io/repos/github/floatingman/stackdio/badge.svg?branch=master
+   :target: https://coveralls.io/github/floatingman/stackdio?branch=master
    :alt: Coverage Status
 .. |DocsStatus| image:: https://readthedocs.org/projects/stackdio/badge/?version=latest
    :target: http://docs.stackd.io/en/latest/?badge=latest
